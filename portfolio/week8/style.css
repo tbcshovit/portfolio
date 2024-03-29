@@ -1,0 +1,19 @@
+body {front-family: verdana, Arial, Helvatica, sans-serif; front-size: 12px; background-color:#CCFFFF; }
+h1  {font-size:14px; front-variant:small-caps; color: #ff0000; background-color: #00ff00;
+position: absolute;
+top: 0px;
+left: 0px;
+z-index: 2;
+ }
+p: first=letter { front-size: 200%;}
+.incime {background-color: #CCCCCC}
+.expenses {background-color: #FF0000;}
+.profit { background-color: #ffff00;}
+#budgetsummary {background-color: #ffffff; boarder: dotted;
+padding: 20px;
+width: 500px;
+position: absolute;
+buttom: 0px;
+top: 0px;
+z-index: 1;
+}
